@@ -1,7 +1,5 @@
 
-<head>
-  <title>Parking Slot Detector</title>
-</head>
+
 <body>
 
 <h1>Parking Slot Detector</h1>
