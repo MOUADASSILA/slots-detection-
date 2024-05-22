@@ -14,7 +14,7 @@
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
+
 </ul>
 
 <h2 id="introduction">Introduction</h2>
@@ -66,9 +66,9 @@
 
 <p>Contributions to the Parking Slot Detector project are welcomed! To contribute, please fork the repository and submit a pull request with your proposed changes.</p>
 
-<h2 id="license">License</h2>
 
-<p>This project is licensed under the MIT.License.</p>
+
+
 
 </body>
 
