@@ -2,7 +2,7 @@
 
 <body>
 
-<h1>(HOMEWORK)Parking Slot Detector</h1>
+<h1>(school project)Parking Slot Detector</h1>
 
 <p>A Python script designed to detect available parking slots in a video using OpenCV.</p>
 
@@ -68,7 +68,7 @@
 
 <h2 id="license">License</h2>
 
-<p>This project is licensed under the MIT License.</p>
+<p>This project is licensed under the MIT.License.</p>
 
 </body>
 
